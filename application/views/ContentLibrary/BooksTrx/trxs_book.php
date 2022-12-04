@@ -39,15 +39,6 @@
                 <?php
                 foreach ($book_trx as $key => $book) {
                 ?>
-                <tr>
-                    <td><?=?></td>
-                    <td><?=$book->?></td>
-                    <td><?=$book?></td>
-                    <td><?=$book?></td>
-                    <td><?=$book?></td>
-                    <td><?=$book?></td>
-                    <td><?=?></td>
-                </tr>
                 <?php
                 }
                 ?>
